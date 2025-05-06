@@ -1,1 +1,1 @@
-# CNN_MLP_DermatologyClassification
+# CNN_MLP_DermatologyClassification.
