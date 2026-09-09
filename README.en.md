@@ -86,4 +86,4 @@ The report demonstrates why accuracy alone is inadequate for imbalanced medical 
 
 ## Academic context
 
-Project presented in **José Cunha's** portfolio. Full academic authorship, experiments, architectures, tables and conclusions are recorded in the [report](ACA_relatorio.pdf).
+Work developed as part of the Advanced Machine Learning course.
