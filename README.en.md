@@ -86,4 +86,4 @@ The report demonstrates why accuracy alone is inadequate for imbalanced medical 
 
 ## Academic context
 
-Developed by **José Cunha and Marta Antunes**. The [report](ACA_relatorio.pdf) contains the full experiments, architectures, tables and conclusions.
+Project presented in **José Cunha's** portfolio. Full academic authorship, experiments, architectures, tables and conclusions are recorded in the [report](ACA_relatorio.pdf).

@@ -86,4 +86,4 @@ O relatório evidencia por que a accuracy isolada não é suficiente em dados m�
 
 ## Contexto académico
 
-Trabalho desenvolvido por **José Cunha e Marta Antunes**. A descrição detalhada das experiências, arquiteturas, tabelas e conclusões encontra-se no [relatório](ACA_relatorio.pdf).
+Projeto apresentado no portefólio de **José Cunha**. A autoria académica completa e a descrição detalhada das experiências, arquiteturas, tabelas e conclusões encontram-se no [relatório](ACA_relatorio.pdf).
