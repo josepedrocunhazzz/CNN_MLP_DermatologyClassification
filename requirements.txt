@@ -1,0 +1,12 @@
+jupyter
+ipywidgets
+matplotlib
+medmnist
+numpy
+pandas
+Pillow
+scikit-learn
+seaborn
+torch
+torchvision
+tqdm
